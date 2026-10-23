@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gabriele Rossi</title>
+</head>
+<body>
+    <h1> Gabriele rossi </h1>
+    <!--immagine di profilo-->https://web.whatsapp.com/1fd03e27-2819-4f5c-99bb-823428966282
+    <img src="foto.jpg" alt="Foto di Gabriele Rossi" width="200">
+<h2>su di me </h2>
+<p>benvenuti nella mia pagina personale!</p>
+<!--lista di interessi-->
+<h2> hobbies e interessi</h2>
+<ol>
+    <li>Programmazione</li>
+    <li>Musica</li>
+    <li>Viaggi</li>
+    <li>Sport</li>
+</ol>
+<!--link ai social media-->
+<h2>Seguimi sui social media</h2>
+<ul>
+<!--instagram:-->
+    <li><a href="https://www.instagram.com/_.gabriielee.___ ">Instagram</a></li>
+    <li><a href="https://www.twitter.com/gabriele_rossi">Twitter</a></li>
+    <li><a href="https://www.linkedin.com/in/gabriele-rossi">LinkedIn</a></li> 
+    <!--[EXTRA]--> esperienza lavorativa e formazione
+    <h2>Esperienza lavorativa e formazione</h2>
+    <table></table>
+        <tr>
+            <th>Anno</th>
+            <th>Esperienza/Formazione</th>
+        </tr>
+        <tr>
+            <td>2024-presente</td>
+            <td>Studente in ITS roma</td>
+        </tr>
+        <tr>
+            <td>2026/2027</td>
+            <td>Tirocinio presso MBDA (Roma Tiburtina)</td>
+        </tr>
+    </tr>
+        <tr>
+            <td>2024-2025</td>
+            <td>operaio di produzione Joyson Safety Sistem Torino</td>
+        </tr>
+        <tbody>
+    <table>
+    !--selezioni contatti
+    <ol>
+    <h2>Contatti</h2>
+    <p>Puoi contattarmi tramite email a: <a href="gabross24@gmail.com ">gabross24@gmail.com</a></p>
+    <p>Puoi contattarmi tramite telefono a: <a href="tel:+3938944640414">+39 351 999 9999</a></p>
+    <p>Puoi contattarmi tramite WhatsApp a: <a href="https://wa.me/3938944640414">+39 389 446 4041</a></p>
+    <p>puoi contattarmi su github: <a href="https://github.com/gabross24-dotcom/desktop-tutorial/new/main" target="_blank">GitHub</a></p>
+
+
+
+</body>
+</html>
