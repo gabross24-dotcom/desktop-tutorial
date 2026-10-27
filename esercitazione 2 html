@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <title>registrazione app di music streaming </title>
+</head>
+<body>
+    <h2>crea una pagina di registrazione per l'app di music streaming</h2>  
+    <form onsubmit="alert(registrazione inviata!); return false;">
+       <p></p>
+         <label for="nome">Nome:</label>
+        <input type="text" id="nome" name="nome" required><br><br>
+      <p></p>  
+        <label for="cognome">Cognome:</label>
+        <input type="text" id="cognome" name="cognome" required><br><br>
+      <p></p>
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required><br><br>
+      <p></p> 
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password" required><br><br>
+       <p></p> 
+        <label for="conferma_password">Conferma Password:</label>
+        <input type="password" id="conferma_password" name="conferma_password" required>
+       <p></p> 
+       <label> accettazione termini e condizioni:</label><br><br>
+        <input type="radio" id="termini" name="termini" value="accetto" required>
+        <label for="termini">Accetto i termini e le condizioni</label><br><br>
+       </label>
+        <input type="submit" value="Registrati">
+        <p>
+            <label>i tuoi gusti musicali:</label>
+            <input type="checkbox" id="rock" name="gusti" value="rock">
+            <label for="rock">Rock</label>
+            <input type="checkbox" id="pop" name="gusti" value="pop">
+            <label for="pop">Pop</label> 
+            <label for="jazz">Jazz</label>
+            <input type="checkbox" id="jazz" name="gusti" value="jazz">
+            <label for="classica">Classica</label>      
+        </p>
+    
+</body>
